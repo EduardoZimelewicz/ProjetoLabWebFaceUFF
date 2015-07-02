@@ -1,0 +1,53 @@
+body{
+    font-family: "lucida grande", sans-serif;
+    background-color: #343447;
+    color: white;
+}
+
+.edicao{
+    position: relative;
+    height: 650px;
+    width: 300px;
+    float: left;
+    background-color: #686868;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.formulario{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.botao{
+    position: absolute;
+    left: 20px;
+    top: 480px;
+}
+
+.logo{
+    position: relative;
+    top: 200px;
+    height: 200px;
+    width: 700px;
+    horiz-align: center;
+}
+
+.logo text{
+    position: absolute;
+    font-size: 100px;
+    top: -10px;
+    left: 80px;
+}
+
+.logo img {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: -25px;
+    right: 40px;
+}

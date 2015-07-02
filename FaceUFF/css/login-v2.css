@@ -45,6 +45,11 @@ li{
      color: white;
  }
 
+ a:hover{
+    text-decoration: underline;
+    color: #ffffff;
+ }
+
  .logo text{
     position: absolute;
     font-size: 100px;

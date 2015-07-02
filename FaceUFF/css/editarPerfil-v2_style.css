@@ -1,0 +1,46 @@
+body{
+    font-family: "lucida grande", sans-serif;
+    background-color: #343447;
+    color: white;
+}
+
+.edicao{
+    background-color: #686868;
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 500px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.botao{
+    position: absolute;
+    left: 30px;
+    top: 450px;
+}
+
+.logo{
+    position: relative;
+    top: -475px;
+    height: 100px;
+    width: 350px;
+    left: -45px;
+    horiz-align: center;
+}
+
+.logo text{
+    position: absolute;
+    font-size: 50px;
+    top: -10px;
+    left: 80px;
+}
+
+.logo img {
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    top: -25px;
+    right: -10px;
+}
