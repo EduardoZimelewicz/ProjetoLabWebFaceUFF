@@ -15,6 +15,3 @@ def senhaValida(senha):
             return senha
         return None
 
-def escape_html(s):
-    return cgi.escape(s, quote=True)
-
